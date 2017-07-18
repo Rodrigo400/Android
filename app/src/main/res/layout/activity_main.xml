@@ -11,12 +11,13 @@
     tools:context="com.example.student.myapplication.MainActivity">
 
     <TextView
+        android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
 
     <Button
-        android:text="Button"
+        android:text="Contact Server"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
